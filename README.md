@@ -9,4 +9,4 @@ A map showing real-time weather radar and alerts. Red polygons indicate severe a
 ## Photo Map Tour
 A map of 8 locations in the surrounding BAton Rouge area. These locations have markers that the audience can click to display details along with an image.
 
-<hhtps://aelami1.github.io/photomap>
+<https://aelami1.github.io/photomap>
